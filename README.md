@@ -105,8 +105,6 @@ A Java-based navigation system for shortest route and fare computation across me
 
 ## 🏆 Achievements & Certifications
 
-- 🏅 **GATE 2026** — Score: 480
-- 💻 **400+ LeetCode problems** solved (Arrays, Graphs, Trees, DP)
 - 🎓 Participated in **ML Workshop at IIT Kanpur**
 - 📜 Java Foundations Professional Certificate — JetBrains (LinkedIn Learning)
 - 📜 Foundation of AI and LLM — E&ICT Academy, IIT Roorkee
