@@ -18,7 +18,6 @@
 
 I'm a pre-final year B.Tech CSE student at **Pranveer Singh Institute of Technology, Kanpur** with a strong interest in backend engineering, algorithms, and building real-world applications.
 
-- 🔭 Currently interning as a **Full Stack Developer at Grochenn India** — working on scalable web apps with React, Node.js & MongoDB
 - 🧠 Solved **400+ problems on LeetCode** across arrays, graphs, trees & dynamic programming
 - 🎓 Qualified **GATE 2026** with a score of 480
 - 🤖 Exploring **AI integrations, LLMs, and NLP** — built an AI-powered learning assistant as a personal project
