@@ -90,18 +90,6 @@ A Java-based navigation system for shortest route and fare computation across me
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekmishra82&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekmishra82&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekmishra82&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
-
----
 
 ## 🏆 Achievements & Certifications
 
