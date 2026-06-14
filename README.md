@@ -16,9 +16,9 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a pre-final year B.Tech CSE student at **Pranveer Singh Institute of Technology, Kanpur** with a strong interest in backend engineering, algorithms, and building real-world applications.
+I'm a final year B.Tech CSE student at **Pranveer Singh Institute of Technology, Kanpur** with a strong interest in backend engineering, algorithms, and building real-world applications.
 
-- 🧠 Solved **400+ problems on LeetCode** across arrays, graphs, trees & dynamic programming
+- 🧠 Solved **450+ problems on LeetCode** across arrays, graphs, trees & dynamic programming
 - 🎓 Qualified **GATE 2026** with a score of 480
 - 🤖 Exploring **AI integrations, LLMs, and NLP** — built an AI-powered learning assistant as a personal project
 - 💡 I enjoy breaking down complex problems into clean, efficient solutions
